@@ -12,7 +12,7 @@ ve Python uygulamaları ile açıklanmıştır.
 
 ---
 
-Threading – Restoran Mutfak Senaryosu
+## 1️- Threading – Restoran Mutfak Senaryosu
 
 Bu uygulamada restoran mutfağı senaryosu üzerinden threading kavramı
 anlatılmaktadır. Salata ve çorba hazırlama işlemleri ayrı görevler olarak
@@ -24,7 +24,7 @@ threading kullanımının avantajlarını göstermektedir.
 
 ---
 
-Multiprocessing – Faktöriyel Hesaplama (CPU-Bound)
+## 2️- Multiprocessing – Faktöriyel Hesaplama (CPU-Bound)
 
 Bu uygulamada işlemciyi yoğun şekilde kullanan faktöriyel hesaplaması
 multiprocessing yapısı kullanılarak paralel hale getirilmiştir.
@@ -36,7 +36,7 @@ neden daha uygun olduğunu göstermektedir.
 
 ---
 
-Thread ve Process Arasındaki Bellek Paylaşımı Farkı
+## 3️- Thread ve Process Arasındaki Bellek Paylaşımı Farkı
 
 Bu senaryoda thread ve process yapılarının bellek yönetimi karşılaştırılmıştır.
 Thread’ler aynı bellek alanını paylaştıkları için global bir veri yapısı
@@ -47,7 +47,7 @@ Bu fark, güvenlik ve veri tutarlılığı açısından önemli bir ayrımdır.
 
 ---
 
-Amdahl Yasası – Sınav Okuma Senaryosu
+## 4- Amdahl Yasası – Sınav Okuma Senaryosu
 
 Bu uygulamada Amdahl Yasası, sınav okuma süreci üzerinden açıklanmıştır.
 Cevap anahtarının hazırlanması seri bir işlem olarak ele alınmıştır ve
